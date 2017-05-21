@@ -3310,8 +3310,6 @@ body {
 
 .post-author .avatar {
     margin-right: 10px;
-    background: url("../images/my.jpg") no-repeat center;
-    background-size: cover;
 }
 
 .post-author p {
